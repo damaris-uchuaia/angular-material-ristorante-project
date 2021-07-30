@@ -1,7 +1,7 @@
 ## Run aplication
 
 To run this application you need to dowload the json-server document. You can dowload it from this github account
-by searching my the git folders. The document name is "json-server"
+by searching my the git folders. Or follow the URL (https://github.com/damaris-uchuaia/json-server)
 
 # ConFusion
 
