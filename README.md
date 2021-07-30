@@ -1,3 +1,8 @@
+## Run aplication
+
+To run this application you need to dowload the json-server document. You can dowload it from this github account
+by searching my the git folders. The document name is "json-server"
+
 # ConFusion
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
